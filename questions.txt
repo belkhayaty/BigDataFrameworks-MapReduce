@@ -1,0 +1,21 @@
+What means USB?
+What is a compiler?
+What is a shebang? 
+What are the 7 layers of network?
+What is the difference of UDP and TCP?
+Name 5 different programmation Paradigm?
+What is a variadic function?
+What is the mathematical difference between compile and assemble?
+What is a side effect?
+What is a stack overflow?
+What is a stack?
+What is a static element in an object oriented language?
+What is Service Oriented Architecture?
+What is an ESB?
+What is OLTP?
+What is OLAP?
+What is fork()?
+Name 4 Free Open Source Software.
+Why a PATA link is larger than a SATA link?
+What is a responsive WebSite?
+Do you like Java?
